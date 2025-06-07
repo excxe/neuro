@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+bin/
+lib/
+lib64/
+pyvenv.cfg
+
+# Logs and outputs
+logs/
+*.log
+output/
+roberta-ca-results/
+best_roberta_ca_model/
+
+# Dataset files (если большие и не нужно в репозиторий)
+*.csv
+*.tsv
+*.json
+
+# Checkpoints и временные файлы трансформеров
+checkpoint-*/
+cache/
+transformers_cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
