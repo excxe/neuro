@@ -38,3 +38,5 @@ Thumbs.db
 # VSCode settings
 .vscode/
 neuro/
+best_roberta_ca_model_strats/
+best_roberta_ca_model_years/
